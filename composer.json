@@ -1,0 +1,14 @@
+{
+    "name": "lenovo/mywork",
+    "description": "Mon framwork perso",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Bogro",
+            "email": "cb@link2b.fr"
+        }
+    ],
+    "require": {
+        "php-di/php-di": "^5.4"
+    }
+}
